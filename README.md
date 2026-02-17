@@ -93,7 +93,7 @@ California's increasing wildfire frequency has led utilities to implement PSPS a
 
 Current utility frameworks for PSPS decisions vary by region and rely on localized interpretation of weather forecasts, vegetation conditions, and grid infrastructure. This variability creates uncertainty for policymakers and communities, limiting their ability to prepare effectively.
 
-## Public Health & Policy Implications
+## Resource Allocation & Policy Implementation
 
 Our predictive models enable:
 
@@ -102,20 +102,6 @@ Our predictive models enable:
 - **Medical Support**: Proactive outreach to medically vulnerable populations
 - **Economic Planning**: Business continuity and school closure coordination
 - **Traffic Management**: Emergency response and traffic light backup systems
-
-## Team Contributions
-
-- **Sol Alvarez-Taubin**: Data cleaning, spatial merges, literature review, project documentation (75 hrs)
-- **Fareed Enani**: Model pipeline development, hyperparameter optimization, performance evaluation (75 hrs)
-- **Chris Kimanga Ndungu**: Geospatial data extraction, exploratory analysis, resource allocation analysis (75 hrs)
-- **Joey Zhang**: Weather data extraction/cleaning, feature engineering, data compilation, documentation (75 hrs)
-
-## Files
-
-- `FinalProject_2025.ipynb`: Main Jupyter notebook with complete analysis
-- `FinalProject_2025.html`: Rendered HTML output
-- `FinalProject_2025.pdf`: PDF version of final report
-- `README.md`: This file
 
 ## References
 
