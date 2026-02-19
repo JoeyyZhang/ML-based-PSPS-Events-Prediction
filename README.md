@@ -66,7 +66,7 @@ Hyperparameter optimization conducted using GridSearchCV with custom scoring met
 
 ## Technical Implementation
 
-**Language**: Julia (Jupyter Notebook)
+**Language**: Python (Jupyter Notebook)
 
 **Key Libraries**:
 - Data Processing: `pandas`, `geopandas`, `numpy`
